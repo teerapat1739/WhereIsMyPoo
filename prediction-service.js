@@ -58,11 +58,11 @@ const extractTag = (body) => {
        }else if(max.Tag == "Taokaenoi_big_sheet_original") {
            return max.Tag+"มี แคลลอรี่ 20 kilocal นะ";
        }else if(max.Tag == "Taro_barbq") {
-           return max.Tag+"ไม่มีมี แคลลอรี่ 70 kilocal จ๊ะ";
+           return max.Tag+"ไม่มีมี แคลลอรี่  จ๊ะ";
        }else if(max.Tag == "Taro_spicy") {
-           return max.Tag+"ไม่มีมี แคลลอรี่ 70 kilocal จ๊ะ";
+           return max.Tag+"ไม่มีมี แคลลอรี่  จ๊ะ";
        }else if(max.Tag == "Tasto_pla_sam_rod") {
-           return max.Tag+"ไม่มีมี แคลลอรี่ 70 kilocal จ๊ะ";
+           return max.Tag+"ไม่มีมี แคลลอรี่  จ๊ะ";
        }
 
         
